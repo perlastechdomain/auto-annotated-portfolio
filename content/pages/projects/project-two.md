@@ -7,7 +7,7 @@ client: Awesome client
 description: >-
   * Implemented basic security measures in the Parrot OS lab, contributing to a
   20% reduction in potential vulnerabilities. * Automated routine security tasks
-  and vulnerability scans within the Parrot OS environment.
+  and vulnerability scans within the Parrot OS environment,
 featuredImage:
   type: ImageBlock
   url: /images/parrotos.PNG
