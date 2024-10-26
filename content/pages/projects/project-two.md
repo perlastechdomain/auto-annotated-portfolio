@@ -5,7 +5,7 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  n this project, I implemented foundational security measures within a Parrot
+  In this project, I implemented foundational security measures within a Parrot
   OS lab environment, resulting in a 20% reduction in potential vulnerabilities.
   I automated routine security tasks and vulnerability scans, optimizing
   operational efficiency by 15% while ensuring consistent threat detection.
