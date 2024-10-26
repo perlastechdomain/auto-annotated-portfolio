@@ -4,7 +4,9 @@ title: Parrot OS Security VMware Lab
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
-description: ''
+description: >-
+  Implemented basic security measures in the Parrot OS lab, contributing to a
+  20% reduction in potential vulnerabilities.
 featuredImage:
   type: ImageBlock
   url: /images/parrotos.PNG
