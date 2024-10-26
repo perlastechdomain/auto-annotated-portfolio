@@ -15,9 +15,15 @@ sections:
     backgroundSize: full
     title: 'Explore Perla Tech Portfolio: Where Technical Expertise Drives Innovation'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      As a dedicated IT professional with an Associate’s degree in Computer
+      Information Systems, I bring a well-rounded technical skillset enriched by
+      hands-on project experience and a range of certifications in
+      cybersecurity, software engineering, and web development. My recent work
+      includes building secure environments, such as a Parrot OS Security Lab
+      that enhances operational efficiency and ensures robust threat detection.
+      My technical skills span across various tools and platforms, including
+      Git, GitHub, Linux, JavaScript, and VMWare, which I use to deliver precise
+      and effective solutions.
     styles:
       self:
         height: auto
