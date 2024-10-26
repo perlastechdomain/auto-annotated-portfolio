@@ -5,9 +5,10 @@ colors: colors-a
 date: '2022-01-22'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Developed a security lab using Parrot OS in a VirtualBox environment to
+  implement and test various security measures. Focused on vulnerability
+  assessment, threat detection, and incident response, enhancing practical
+  skills in cybersecurity tools and methodologies.
 featuredImage:
   type: ImageBlock
   url: /images/download.png
