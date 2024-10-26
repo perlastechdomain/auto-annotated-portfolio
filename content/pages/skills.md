@@ -7,8 +7,7 @@ sections:
     variant: variant-a
     title: This in an empty page
     subtitle: The section subtitle
-    text: |
-      Professional Skills
+    text: ''
     elementId: ''
     styles:
       self:
