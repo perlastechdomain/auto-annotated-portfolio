@@ -197,4 +197,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+metaTitle: Perla Tech Portfolio
 ---
