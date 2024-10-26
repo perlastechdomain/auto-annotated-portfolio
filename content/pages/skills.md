@@ -7,9 +7,8 @@ sections:
     variant: variant-a
     title: This in an empty page
     subtitle: The section subtitle
-    text: >-
-      Start adding sections by clicking the + button on the page or through the
-      sidebar.
+    text: |
+      Professional Skills
     elementId: ''
     styles:
       self:
