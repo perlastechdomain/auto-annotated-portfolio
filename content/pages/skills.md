@@ -7,7 +7,17 @@ sections:
     variant: variant-a
     title: Professional Skills
     subtitle: The section subtitle
-    text: ''
+    text: >
+      Accuracy • Adaptability • Analytical Skills • Attention to Detail •
+      Communication • Computer Literacy • Critical
+
+      Thinking • Customer Service • Customer Service Experience • Cybersecurity
+      • Detail-Oriented • Git • GitHub • HTML
+
+      • JavaScript • Linux • Parrot OS • Problem-Solving • React • Software
+      Engineering • Teamwork • Troubleshooting •
+
+      Visual Studio Code • VMWare • Web Development • Windows 10
     elementId: ''
     styles:
       self:
