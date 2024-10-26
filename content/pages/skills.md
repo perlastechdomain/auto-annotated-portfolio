@@ -5,7 +5,7 @@ sections:
   - type: TextSection
     colors: colors-f
     variant: variant-a
-    title: Proffesional Skills
+    title: Professional Skills
     subtitle: The section subtitle
     text: ''
     elementId: ''
