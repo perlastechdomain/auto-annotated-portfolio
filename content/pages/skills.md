@@ -6,7 +6,7 @@ sections:
     colors: colors-f
     variant: variant-a
     title: Professional Skills
-    subtitle: The section subtitle
+    subtitle: ''
     text: >
       Accuracy • Adaptability • Analytical Skills • Attention to Detail •
       Communication • Computer Literacy • Critical
