@@ -12,6 +12,7 @@ featuredImage:
   type: ImageBlock
   url: /images/download.png
   altText: Project thumbnail image
+  caption: Parrot os security virtualbox Lab
 media:
   type: ImageBlock
   url: /images/bg3.jpg
