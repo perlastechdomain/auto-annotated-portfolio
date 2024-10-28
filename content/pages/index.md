@@ -51,12 +51,6 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-    media:
-      type: ImageBlock
-      url: '/images/Photo on 9-29-23 at 2.12 PM #2.jpg'
-      altText: ''
-      caption: Caption of the image
-      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
