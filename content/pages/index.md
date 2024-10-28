@@ -54,7 +54,7 @@ sections:
     media:
       type: ImageBlock
       url: '/images/Photo on 9-29-23 at 2.12 PM #2.jpg'
-      altText: altText of the image
+      altText: ''
       caption: Caption of the image
       elementId: ''
   - colors: colors-f
