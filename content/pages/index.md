@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: 'Explore Perla Tech Portfolio: Where Technical Expertise Drives Innovation'
     subtitle: >-
       As a dedicated IT professional with an Associate’s degree in Computer
