@@ -52,12 +52,6 @@ sections:
     type: HeroSection
     actions: []
     text: ''
-    media:
-      type: ImageBlock
-      url: /images/465521427_17944341782880564_2582987561882697324_n.jpg
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
