@@ -16,7 +16,7 @@ featuredImage:
   caption: Parrot os security virtualbox Lab
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/parrotos.PNG
   altText: Project image
 ---
 
