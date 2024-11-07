@@ -4,7 +4,7 @@ title: Projects
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/technology-2818664_1920.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
