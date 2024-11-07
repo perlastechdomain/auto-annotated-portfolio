@@ -54,7 +54,7 @@ sections:
     text: ''
     media:
       type: ImageBlock
-      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      url: '/images/Photo on 9-29-23 at 2.12 PM #2.jpg'
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
