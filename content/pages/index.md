@@ -4,7 +4,7 @@ title: Home
 colors: colors-c
 backgroundImage:
   type: BackgroundImage
-  url: /images/industry-2630319_1920.jpg
+  url: /images/pattern-3320522_1920.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
