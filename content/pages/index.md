@@ -51,6 +51,8 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |
+      ![](/images/465521427_17944341782880564_2582987561882697324_n.jpg)
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
