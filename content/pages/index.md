@@ -198,4 +198,5 @@ sections:
         textAlign: left
 metaTitle: Perla Tech Portfolio
 metaDescription: Perla Tech Portfolio
+socialImage: /images/technology-2818664_1920.jpg
 ---
