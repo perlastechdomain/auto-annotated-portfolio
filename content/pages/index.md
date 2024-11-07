@@ -13,7 +13,9 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: 'Explore Perla Tech Portfolio: Where Technical Expertise Drives Innovation'
+    title: >-
+      Explore Perla's  Tech Portfolio: Where Technical Expertise Drives
+      Innovation
     subtitle: >-
       As a dedicated IT professional with an Associate’s degree in Computer
       Information Systems, I bring a well-rounded technical skillset enriched by
