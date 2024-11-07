@@ -54,7 +54,7 @@ sections:
     text: ''
     media:
       type: ImageBlock
-      url: '/images/Photo on 9-29-23 at 2.12 PM #2.jpg'
+      url: /images/465521427_17944341782880564_2582987561882697324_n.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
